@@ -38,3 +38,4 @@ Orientações:
 - Caso sua equipe use algum issuetracker (como o do próprio GitHub, por exemplo), lembre-se de referenciar o número da issue em que você está trabalhando no commit. Exemplo:
   - Existe a issue: #10 - Fix password bug.
   - Seu commit que corrige tal bug deve ser algo do tipo: "Change user password algorithm. Fix #10"
+- Pulls Request devem ser revisados o quanto antes, para evitar que quem os tenha feito fique "bloqueado" enquanto aguarda feedback
